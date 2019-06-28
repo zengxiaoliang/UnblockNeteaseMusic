@@ -1,5 +1,16 @@
 <img src="https://user-images.githubusercontent.com/26399680/47980314-0e3f1700-e102-11e8-8857-e3436ecc8beb.png" alt="logo" width="140" height="140" align="right">
 
+
+#安卓（华为nova2s）本地部署项目
+在安卓手机上使用本项目
+- 安装termux 并使用apt install node 完成node 的安装
+- 在termux 中安装git ，使用git clone 获取UnblockNeteaseMusic 项目
+- node app.js 运行改项目
+- 手机上设置wifi \数据代理
+
+
+
+
 # UnblockNeteaseMusic
 
 解锁网易云音乐客户端变灰歌曲
